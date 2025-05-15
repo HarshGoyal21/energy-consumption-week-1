@@ -1,1 +1,1 @@
-# energy-consumption-week-1
+# energy-consumption-final project
